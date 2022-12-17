@@ -9,8 +9,8 @@ will be bugs and non-operational/dysfunctional features at time of "stable" rele
 
 # Rules
 
-Here is a boutline of what rules should be followed throuought the entire game. Failure to do so may result in a ban, dependant on the staff member's
-descision. 
+Here is an outline of what rules should be followed throuought the entire game. Failure to do so may result in a ban, dependant on the staff member's
+descision. These are Roblox rules that should be followed no matter the situation. Failure to comply with **ROBLOX** rules may result in a ban, no matter the staff member's descision.
  - Roblox rules
  At Roblox, we’re building the metaverse: a space for people to adventure, experience, and explore. We’re a global community on this journey together, and we want to ensure everyone feels welcome and safe and is treated with kindness and respect. That’s why we’ve created these Community Standards: to outline how we expect our users to behave, and to be clear up front about what is and isn’t allowed on Roblox.
 
