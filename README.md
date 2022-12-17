@@ -26,8 +26,8 @@ In short, when using Roblox, always remember to be kind. If you see something th
 
 We appreciate your cooperation with these standards and commitment to making Roblox a safe and respectful space.
 
-SAFETY
-We want our metaverse to be safe and welcoming for everyone, regardless of their identity or beliefs. To keep Roblox a place where everyone feels comfortable being themselves, the following is not allowed:
+# SAFETY
+ 1. We want our metaverse to be safe and welcoming for everyone, regardless of their identity or beliefs. To keep Roblox a place where everyone feels comfortable being themselves, the following is not allowed:
 
 Child Endangerment
 Roblox has a zero-tolerance policy for endangering children. This includes:
