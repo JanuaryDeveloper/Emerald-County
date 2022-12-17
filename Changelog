@@ -4,8 +4,11 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning/SemVer](https://semver.org/spec/v2.0.0.html).
+
+Until the game is published (est. January-March 2023), all updates in this changelog are to be considered unpublished.
 _______________________________________________________________________________________
 
 ##v.1.0.0
 
  - Added signals for intersections!
+ 
