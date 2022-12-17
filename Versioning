@@ -4,6 +4,7 @@ _________________________
 
 Emerald County currently uses Semantic Versioning (Semver).
 
-|       |
-|       |
-|       |
+| Version | Supported          |
+| ------- | ------------------ |
+| 1.0.0  | ✅                |
+
